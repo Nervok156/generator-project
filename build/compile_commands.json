@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++   -std=gnu++17 -o CMakeFiles/generator.dir/src/main.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/main.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/main.cpp"
+},
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++   -std=gnu++17 -o CMakeFiles/generator.dir/src/template_parser.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/template_parser.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/template_parser.cpp"
+},
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++   -std=gnu++17 -o CMakeFiles/generator.dir/src/json_parser.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/json_parser.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/json_parser.cpp"
+},
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++   -std=gnu++17 -o CMakeFiles/generator.dir/src/module_loader.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/module_loader.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/src/module_loader.cpp"
+},
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++ -Dmath_EXPORTS  -fPIC -std=gnu++17 -o CMakeFiles/math.dir/modules/math.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/modules/math.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/modules/math.cpp"
+},
+{
+  "directory": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build",
+  "command": "/usr/bin/g++ -Dcsv_EXPORTS  -fPIC -std=gnu++17 -o CMakeFiles/csv.dir/modules/csv.cpp.o -c \"/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/modules/csv.cpp\"",
+  "file": "/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/modules/csv.cpp"
+}
+]

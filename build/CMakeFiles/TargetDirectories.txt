@@ -1,0 +1,5 @@
+/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build/CMakeFiles/generator.dir
+/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build/CMakeFiles/math.dir
+/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build/CMakeFiles/csv.dir
+/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build/CMakeFiles/edit_cache.dir
+/home/student/Рабочий стол/Practic_Kopyl_ISP43/Practic_Pain/generator-project/build/CMakeFiles/rebuild_cache.dir

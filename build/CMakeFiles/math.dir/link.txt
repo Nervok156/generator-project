@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared  -o modules/libmath.so CMakeFiles/math.dir/modules/math.cpp.o 

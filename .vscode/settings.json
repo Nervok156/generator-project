@@ -1,0 +1,8 @@
+{
+  "clangd.arguments": [
+    "--compile-commands-dir=${workspaceFolder}/build",
+    "--query-driver=/usr/bin/g++",
+    "--background-index",
+    "--clang-tidy=false"
+  ]
+}
